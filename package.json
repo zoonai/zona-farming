@@ -1,0 +1,33 @@
+{
+  "name": "zona-farming",
+  "version": "1.0.1",
+  "description": "Zona Farming Test",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "zona-farming"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoonai/zona-farming"
+  },
+  "keywords": [
+    "Zona",
+    "Farming",
+    "Test"
+  ],
+  "author": "GG Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoonai/zona-farming/issues"
+  },
+  "homepage": "https://github.com/zoonai/zona-farming#readme",
+  "dependencies": {
+    "dynamics-contracts-x": "^2.0.0",
+    "zona-chain-x": "^1.0.1",
+    "zona-nft-dapps-x": "^2.1.0",
+    "zona-x": "^1.26.0"
+  }
+}
